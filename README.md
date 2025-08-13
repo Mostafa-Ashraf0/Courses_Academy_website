@@ -12,14 +12,14 @@ A modern web website
 
 ## :sparkler: Features
 
-  - **:iphone: side menu :** simple side menu that opens when user click on an icon which contain some features like changing the theme color of the website, activate random background option and activate navigation bullets.
-  - **:iphone: Navigation bullets :** navigation bullets bar that facilitate the user experience to reach specific section in the site.
-
+  - **:iphone: links :** different icons that navigate to academy what's app
+  - **:iphone: flip card :** flip cards to visualize programs and it's details in the other face of the card when user click.
+  - **📱Animations : ** nice animation around the image in the hero section and another animation in the studying system section.
 
 ## :computer: Technology Stack
 <div>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" width="100px" height = "auto">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html" width="100px" height = "auto">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="css" width="100px" height = "auto">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" width="100px" height = "auto">
 </div>
 live preview:https://mostafa-ashraf0.github.io/Courses_Academy_website/
